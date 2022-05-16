@@ -1,0 +1,2 @@
+COc1ccc2c(c[n+](C)c3c4cc5c(cc4ccc23)OCO5)c1OC CHEMBL13045
+O=C(N1CCCCC1)n1nc(-c2ccc(Cl)cc2)nc1SCC(F)(F)F CHEMBL130628
